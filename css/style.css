@@ -1,0 +1,130 @@
+.navbar-light .navbar-nav .nav-link {
+    color: #626262;
+    font-size: 18px;
+    text-transform: uppercase;
+    margin-left: 40px;
+    font-family: 'Playfair Display', serif;
+}
+.photodiary{
+
+}
+.photodiary h5{
+    color: #b4ad9e;
+    text-transform: uppercase;
+    font-size: 16px;
+    margin-bottom: 25px;
+    font-family: 'Ubuntu', sans-serif;
+}
+.photodiary h1{
+    color: #626262;
+    text-transform: capitalize;
+    font-size: 40px;
+    margin-bottom: 15px;
+    font-family: 'Playfair Display', serif;
+}
+.photodiary p{
+    color: #626262;
+    margin-bottom: 30px;
+    font-family: 'Playfair Display', serif;
+}
+.lifestyle-1{
+
+
+}
+.lifestyle-1 h5{
+    color: #b4ad9e;
+    text-transform: uppercase;
+    font-size: 16px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.lifestyle-1 h1{
+    color: #626262;
+    text-transform: capitalize;
+    font-size: 40px;
+    margin-bottom: 15px;
+    font-family: 'Playfair Display', serif;
+}
+.lifestyle-1 p{
+    color: #626262;
+    margin-bottom: 30px;
+    font-family: 'Playfair Display', serif;
+}
+.newsletter{
+    background-color: #f0f0f0;
+    margin-bottom: 50px;
+}
+.newsletter h1{
+    color: #626262;
+    font-size: 53px;
+}
+.newsletter input{
+    background: transparent;
+    border: none;
+    border-bottom: 1px solid #626262;
+    margin-top: 50px;
+    width: 100%; 
+}
+.newsletter input:focus{
+    outline: none;
+}
+.newsletter input::placeholder{
+    color: #626262;
+    font-size: 20px;
+}
+.col-md-6{
+    position: relative;
+
+}
+.icon{
+    position: absolute;
+    right: 0;
+    bottom: 0;
+  }
+
+.loadmore{
+    padding: 100px 0;
+    text-align: center;
+}
+.loadmore button{
+    border: none;
+    background: transparent;
+    border: 1px solid black;
+    padding: 20px 40px;
+    font-size: 25px;
+    color: #626262;
+}
+footer{
+    background-color: #f0f0f0;
+}
+.terms{
+
+}
+.terms ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    
+}
+
+.terms ul li{
+    text-transform: capitalize;
+    color: #333333;
+    font-family: 'Playfair Display', serif;
+}  
+.follow{
+
+}
+.follow ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+.follow ul li{
+    text-transform: capitalize;
+    color: #333333;
+    font-family: 'Playfair Display', serif;
+   
+}
